@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+z3-solver
+notebook
+ipykernel
